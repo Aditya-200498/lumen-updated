@@ -1,0 +1,298 @@
+[2025-05-06T20:04:31.708Z] Starting data refresh...
+[2025-05-06T20:04:31.708Z] Error during data refresh: Error: Command failed: node ../scripts/load_data.js
+Debugger listening on ws://127.0.0.1:59219/7eb34100-41b9-4ac6-bd77-bc17295066d6
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+Waiting for the debugger to disconnect...
+node:internal/modules/cjs/loader:1137
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/aditya/Desktop/scripts/load_data.js'
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1134:15)
+    at Module._load (node:internal/modules/cjs/loader:975:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12)
+    at node:internal/main/run_main_module:28:49 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+Node.js v18.19.1
+
+[2025-05-06T20:04:31.708Z] Stderr: Debugger listening on ws://127.0.0.1:59219/7eb34100-41b9-4ac6-bd77-bc17295066d6
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+Waiting for the debugger to disconnect...
+node:internal/modules/cjs/loader:1137
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/aditya/Desktop/scripts/load_data.js'
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1134:15)
+    at Module._load (node:internal/modules/cjs/loader:975:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12)
+    at node:internal/main/run_main_module:28:49 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+Node.js v18.19.1
+
+[2025-05-06T20:04:31.708Z] Data refresh failed: Command failed: node ../scripts/load_data.js
+Debugger listening on ws://127.0.0.1:59219/7eb34100-41b9-4ac6-bd77-bc17295066d6
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+Waiting for the debugger to disconnect...
+node:internal/modules/cjs/loader:1137
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/aditya/Desktop/scripts/load_data.js'
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1134:15)
+    at Module._load (node:internal/modules/cjs/loader:975:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12)
+    at node:internal/main/run_main_module:28:49 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+Node.js v18.19.1
+
+[2025-05-07T06:33:57.938Z] Starting data refresh...
+[2025-05-07T06:33:57.938Z] Error during data refresh: Error: Command failed: node ../scripts/load_data.js
+Debugger listening on ws://127.0.0.1:52522/57a3fda2-a51b-4a73-8d2f-fa614a501c1b
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+Waiting for the debugger to disconnect...
+node:internal/modules/cjs/loader:1137
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/aditya/Desktop/scripts/load_data.js'
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1134:15)
+    at Module._load (node:internal/modules/cjs/loader:975:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12)
+    at node:internal/main/run_main_module:28:49 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+Node.js v18.19.1
+
+[2025-05-07T06:33:57.938Z] Stderr: Debugger listening on ws://127.0.0.1:52522/57a3fda2-a51b-4a73-8d2f-fa614a501c1b
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+Waiting for the debugger to disconnect...
+node:internal/modules/cjs/loader:1137
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/aditya/Desktop/scripts/load_data.js'
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1134:15)
+    at Module._load (node:internal/modules/cjs/loader:975:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12)
+    at node:internal/main/run_main_module:28:49 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+Node.js v18.19.1
+
+[2025-05-07T06:33:57.938Z] Data refresh failed: Command failed: node ../scripts/load_data.js
+Debugger listening on ws://127.0.0.1:52522/57a3fda2-a51b-4a73-8d2f-fa614a501c1b
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+Waiting for the debugger to disconnect...
+node:internal/modules/cjs/loader:1137
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/aditya/Desktop/scripts/load_data.js'
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1134:15)
+    at Module._load (node:internal/modules/cjs/loader:975:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12)
+    at node:internal/main/run_main_module:28:49 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+Node.js v18.19.1
+
+[2025-05-07T06:35:49.916Z] Starting data refresh...
+[2025-05-07T06:35:49.916Z] Stderr: Debugger listening on ws://127.0.0.1:52927/f3a1ded3-5cfd-47b2-a20a-66ef02d5749a
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+Waiting for the debugger to disconnect...
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+[Error: ENOENT: no such file or directory, open '../data/sales_data.csv'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '../data/sales_data.csv'
+}
+
+Node.js v18.19.1
+
+[2025-05-07T06:35:49.916Z] Error during data refresh: Error: Command failed: node ../LUMENS-UPDATED/scripts/load_data.js
+Debugger listening on ws://127.0.0.1:52927/f3a1ded3-5cfd-47b2-a20a-66ef02d5749a
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+Waiting for the debugger to disconnect...
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+[Error: ENOENT: no such file or directory, open '../data/sales_data.csv'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '../data/sales_data.csv'
+}
+
+Node.js v18.19.1
+
+[2025-05-07T06:35:49.916Z] Data refresh failed: Command failed: node ../LUMENS-UPDATED/scripts/load_data.js
+Debugger listening on ws://127.0.0.1:52927/f3a1ded3-5cfd-47b2-a20a-66ef02d5749a
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+Waiting for the debugger to disconnect...
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+[Error: ENOENT: no such file or directory, open '../data/sales_data.csv'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '../data/sales_data.csv'
+}
+
+Node.js v18.19.1
+
+[2025-05-07T07:00:15.154Z] Starting data refresh...
+[2025-05-07T07:00:15.154Z] Stderr: Debugger listening on ws://127.0.0.1:58557/a9a8a800-7a77-4d4d-917a-9b01ae32708d
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+Waiting for the debugger to disconnect...
+node:internal/modules/cjs/loader:1137
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/aditya/Desktop/scripts/load_data.js'
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1134:15)
+    at Module._load (node:internal/modules/cjs/loader:975:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12)
+    at node:internal/main/run_main_module:28:49 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+Node.js v18.19.1
+
+[2025-05-07T07:00:15.154Z] Error during data refresh: Error: Command failed: node ../scripts/load_data.js
+Debugger listening on ws://127.0.0.1:58557/a9a8a800-7a77-4d4d-917a-9b01ae32708d
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+Waiting for the debugger to disconnect...
+node:internal/modules/cjs/loader:1137
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/aditya/Desktop/scripts/load_data.js'
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1134:15)
+    at Module._load (node:internal/modules/cjs/loader:975:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12)
+    at node:internal/main/run_main_module:28:49 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+Node.js v18.19.1
+
+[2025-05-07T07:00:15.154Z] Data refresh failed: Command failed: node ../scripts/load_data.js
+Debugger listening on ws://127.0.0.1:58557/a9a8a800-7a77-4d4d-917a-9b01ae32708d
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+Waiting for the debugger to disconnect...
+node:internal/modules/cjs/loader:1137
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/aditya/Desktop/scripts/load_data.js'
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1134:15)
+    at Module._load (node:internal/modules/cjs/loader:975:27)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12)
+    at node:internal/main/run_main_module:28:49 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
+
+Node.js v18.19.1
+
+[2025-05-07T07:05:02.546Z] Starting data refresh...
+[2025-05-07T07:05:02.546Z] Error during data refresh: Error: Command failed: node "/Users/aditya/Desktop/Lumens-updated/scripts/load_data.js"
+Debugger listening on ws://127.0.0.1:59703/e143116a-7970-455d-bbe3-7160ae61ef22
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+Waiting for the debugger to disconnect...
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+[Error: ENOENT: no such file or directory, open '../data/sales_data.csv'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '../data/sales_data.csv'
+}
+
+Node.js v18.19.1
+
+[2025-05-07T07:05:02.546Z] Stderr: Debugger listening on ws://127.0.0.1:59703/e143116a-7970-455d-bbe3-7160ae61ef22
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+Waiting for the debugger to disconnect...
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+[Error: ENOENT: no such file or directory, open '../data/sales_data.csv'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '../data/sales_data.csv'
+}
+
+Node.js v18.19.1
+
+[2025-05-07T07:05:02.546Z] Data refresh failed: Command failed: node "/Users/aditya/Desktop/Lumens-updated/scripts/load_data.js"
+Debugger listening on ws://127.0.0.1:59703/e143116a-7970-455d-bbe3-7160ae61ef22
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+Waiting for the debugger to disconnect...
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+[Error: ENOENT: no such file or directory, open '../data/sales_data.csv'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '../data/sales_data.csv'
+}
+
+Node.js v18.19.1
+
+[2025-05-07T07:10:16.161Z] Starting data refresh...
+[2025-05-07T07:10:16.161Z] Data loading script executed successfully.
+[2025-05-07T07:10:16.161Z] Stdout: MongoDB connected for data loading.
+Existing data cleared.
+Products loaded successfully.
+Customers loaded successfully.
+Orders loaded successfully.
+Data loading complete.
+
+[2025-05-07T07:10:16.161Z] Data refresh completed successfully.
