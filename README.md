@@ -11,6 +11,7 @@ This project is a backend solution designed to analyze sales data stored in a Mo
 - **API Endpoints**:
   - `/api/analysis/top-products/overall`: Retrieves the top N selling products across all categories within a specified date range.
   - `/api/analysis/top-products/category/:category`: Retrieves the top N selling products within a specific category within a specified date range.
+  - `/api/analysis/top-products/category/:region`: Retrieves the top N selling products within a specific region within a specified date range.
 - **Filtering**: Both API endpoints support filtering by start and end dates.
 - **Configuration**: The application uses a configuration file (`config/config.js`) to manage environment-specific settings, including the MongoDB connection URI.
 - **Logging**: The application logs data refresh information to `logs/refresh.log`.
